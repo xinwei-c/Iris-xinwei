@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Iris Chen",
-    "section": "",
-    "text": "Hi, welcome to my site! My name is Iris (Xinwei) Chen."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCampaign Efficacy and Engagement Analysis\n\n\n\nData Visualization\n\nMarketing\n\nTableau\n\n\n\nDuring my Growth Marketing internship at Smartly, I volunteered to take on marketing analytics work to deepen my understanding of data-driven strategy.\n\n\n\nIris Chen\n\n\n\n\n\n\n\n\n\n\n\n\n\nCounty-Level Trends in Grocery Store Access In Wisconsin\n\n\n\nData Visualization\n\nR\n\nTableau\n\n\n\nThe projects shows county-level trends in grocery store access in Wisconsin from 2010 to 2015.\n\n\n\nIris Chen\n\n\n\n\n\n\n\n\n\n\n\n\n\nCuisine Explorer\n\n\n\nData Visualization\n\nR\n\n\n\nThe visualization is part of my course work where I build interactive relationship between variables. The work is build with Shiny package.\n\n\n\nIris Chen\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvolving Liberal Arts Education\n\n\n\nJournalism\n\n\n\nMy individual story explores the evolving liberal arts education. Through interviews with graduate, advisor and student, I try to find answers about its meaning in a…\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Iris Chen",
-    "section": "News",
-    "text": "News\n\nJuly 15, 2025\nWorked as New York Asian Film Festival Volunteer.\n\n\nJune 2, 2025\nStarted my summer internship at Smartly, working under the guidance of\nAlicia Mickelsen, VP of Growth Marketing and Strategy.\n\n\n\nShow earlier news (before 2025)\n\n\nDecember 2024\nCompleted my individual journalistic work exploring the evolution of liberal arts education at UW-Madison.\n\n\nDecember 2024\nFinished my consulting project with American Family Insurance in Ethical and Responsible Business Network\n\n\nDecember 2024\nConducted over 20 phone interviews regarding Wisconsin Family Health Study in University of Wisconsin Survey Centre.\n\n\nSemtember 2024\nJoined School of Journalism and Mass Communication with Honor."
-  },
-  {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "Posts",
@@ -42,39 +14,11 @@
     "text": "About Me\n\n\n\nI’m a senior student at the University of Wisconsin–Madison studying Journalism and Data Science. I am also a part-time volunteer with the Computational Approaches and Message Effects Research (CAMER) group in the School of Journalism and Mass Communication. Besides, I study to grow into a marketing analyst and data storyteller who can turn numbers into something people actually understand. By bringing together strategic communication and data science, I want to keep exploring how insight and technology can work hand in hand to make ideas real."
   },
   {
-    "objectID": "posts/2025-11-3.html#this-is-the-body-of-my-first-blog-post.",
-    "href": "posts/2025-11-3.html#this-is-the-body-of-my-first-blog-post.",
-    "title": "My Newest Insight",
-    "section": "This is the body of my first blog post.",
-    "text": "This is the body of my first blog post."
-  },
-  {
-    "objectID": "projects/food insecurity.html#this-full-page-content-provides-a-deeper-dive-into-the-methodology-and-results.",
-    "href": "projects/food insecurity.html#this-full-page-content-provides-a-deeper-dive-into-the-methodology-and-results.",
-    "title": "food insecurity",
-    "section": "This full-page content provides a deeper dive into the methodology and results.",
-    "text": "This full-page content provides a deeper dive into the methodology and results."
-  },
-  {
-    "objectID": "projects/food insecurity.html",
-    "href": "projects/food insecurity.html",
-    "title": "Campaign Efficacy and Engagement Analysis",
-    "section": "",
-    "text": "Key axes have been masked for data security\n\n\n\nIntroduction Text\nDuring my internship at Smartly as a Growth Marketing Intern, I volunteered to take on marketing analytics work to deepen my understanding of data-driven strategy. I analyzed internal campaign datasets to assess performance and audience engagement, providing timely reports and insights that supported the team’s optimization efforts. The data was processed in RStudio and visualized in Tableau, transforming campaign metrics into clear findings for strategies. The data is from 6Sense. To protect information security, the key axes have been masked.\n\n\nBasic steps in processing data\n\nSegment: categorized campaigns based on their names:\n\n\nAudience Type: Hot / Warm / Unknown (if not mentioned)\nFocus Area: Flashtalking, GetDemo, etc.\n\n\nVisualize\n\n\nFocused on key performance metrics: Spend and CTR\nSegmented results into account-based vs. general\n\n\nInsights"
-  },
-  {
-    "objectID": "projects/food insecurity.html#insights",
-    "href": "projects/food insecurity.html#insights",
-    "title": "Campaign Efficacy and Engagement Analysis",
-    "section": "3. Insights",
-    "text": "3. Insights"
-  },
-  {
-    "objectID": "projects/food-insecurity.html",
-    "href": "projects/food-insecurity.html",
-    "title": "County-Level Trends in Grocery Store Access In Wisconsin",
-    "section": "",
-    "text": "Main visualization\n\n\n\nIntroduction Text\n\nResearch Question:To what extent do counties influence changes in grocery store accessibility from 2010 to 2015?\nKey findings Food accessibility varies across countries and disproportionately affects certain communities. Limited access to grocery stores can contribute to food insecurity and broader public health concerns, especially in lower-income or rural areas. Using data from the USDA Food Environment Atlas, this study explores changes in food access across Wisconsin counties between 2010 and 2015. We examine how factors like county population size, urban vs. rural classification, and racial demographics relate to low grocery access. For clarity and consistency in interpreting the data, the following definitions were used: “Low access” refers to individuals living more than 1 mile from a grocery store in urban areas or more than 10 miles in rural areas. Additionally, all demographic variables were calculated as percentages within each group at the county level. For example, the percentage of white residents with low access was calculated by dividing the number of white individuals with low access by the total number of white residents in that county. This analysis focused specifically on counties within Wisconsin, using data from the USDA Food Environment Atlas.\n\n\n\n\nPhoto with my team\n\n\n\nTogether with my teammates Salma Gadelhak, Hanvin Moon and Chloe Siegel, we showed how grocery store access in Wisconsin counties changed between 2010 and 2015. Using R and Tableau, we visualized these disparities and uncovered patterns that often go unnoticed."
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Iris Chen",
+    "section": "News",
+    "text": "News\n\nJuly 15, 2025\nWorked as New York Asian Film Festival Volunteer.\n\n\nJune 2, 2025\nStarted my summer internship at Smartly, working under the guidance of\nAlicia Mickelsen, VP of Growth Marketing and Strategy.\n\n\n\nShow earlier news (before 2025)\n\n\nDecember 2024\nCompleted my individual journalistic work exploring the evolution of liberal arts education at UW-Madison.\n\n\nDecember 2024\nFinished my consulting project with American Family Insurance in Ethical and Responsible Business Network\n\n\nDecember 2024\nConducted over 20 phone interviews regarding Wisconsin Family Health Study in University of Wisconsin Survey Centre.\n\n\nSemtember 2024\nJoined School of Journalism and Mass Communication with Honor."
   },
   {
     "objectID": "projects/market-campaign.html",
@@ -84,25 +28,11 @@
     "text": "Key axes have been masked for data security\n\n\n\nIntroduction Text\nDuring my internship at Smartly as a Growth Marketing Intern, I volunteered to take on marketing analytics work to deepen my understanding of data-driven strategy. I analyzed internal campaign datasets to assess performance and audience engagement, providing timely reports and insights that supported the team’s optimization efforts. The data was processed in RStudio and visualized in Tableau, transforming campaign metrics into clear findings for strategies. The data is from 6Sense. To protect information security, the key axes have been masked.\n\n\nBasic steps in processing data\n\nSegment: categorized campaigns based on their names:\n\n\nAudience Type: Hot / Warm / Unknown (if not mentioned)\nFocus Area: Flashtalking, GetDemo, etc.\n\n\nVisualize\n\n\nFocused on key performance metrics: Spend and CTR\nSegmented results into account-based vs. general\n\n\nInsights"
   },
   {
-    "objectID": "projects/food-explorer.html",
-    "href": "projects/food-explorer.html",
-    "title": "Cuisine Explorer",
+    "objectID": "projects/food-insecurity.html",
+    "href": "projects/food-insecurity.html",
+    "title": "County-Level Trends in Grocery Store Access In Wisconsin",
     "section": "",
-    "text": "Main visualization"
-  },
-  {
-    "objectID": "projects/food-explorer.html#go-to-the-app",
-    "href": "projects/food-explorer.html#go-to-the-app",
-    "title": "Cuisine Explorer",
-    "section": "Go to the App!",
-    "text": "Go to the App!\n\n\n\n\n\n\nNote\n\n\n\nThe full interactive application is hosted on ShinyApps: Launch Cuisine Explorer App"
-  },
-  {
-    "objectID": "projects/food-explorer.html#introduction",
-    "href": "projects/food-explorer.html#introduction",
-    "title": "Cuisine Explorer",
-    "section": "Introduction",
-    "text": "Introduction\n\nObjectives\nThe visualization aims to explore how nutritional values differ across countries and ingredient types, and how the number of recipes published online has changed over time. This app targets general audiences like cooks and foodies curious about recipes data. Therefore, with the specific countries and ingredients selected, audiences can explore what is most relevant to them. The app prioritizes intuitive exploration so audiences can play around the functions.\nThe app uses controls for personalized exploration. With the first single ingredient dropdown, users can select the ingredient they are most interested in. The country selector, however, allows multiple choices so that audiences can filter a set of certain countries. Variable selectors for the scatter plot make the same display serve multiple analytical purposes. Thus, users can switch to various relationships without changing plots. Brushing works across the scatter and histogram, so one action reflects on several spaces. The year bar chart updates automatically with the filters, showing whether a pattern belongs to older or newer uploaded recipes.\n\n\nData Processing\nBefore visualization, I cleaned the datasets to remove rows with missing data and ensure valid time. I created new columns to decide whether a recipe included key ingredients such as flour, milk, butter, chicken and beef. These ingredient indicators were used to allow filtering and comparison across different food types. Another important step was grouping the calorie variable into broad ranges (0-500, 500-1000, &gt;1000). The step is to create a classification that distinguishes recipes’ energy density. The publication date was converted into a date format to analyze recipe trends by year. In addition, each row of the processed dataset represents a single recipe, including its nutritional information (calories, fat, carbohydrates and protein), average user rating, country of origin, and total preparation time.\n\n\nKey Variables\n\ncalories, fat, carb, proteins: nutritional content per serving.\navg_ratings: average rating out of 5 stars, which can reflect user satisfaction\ntotal_time: total time needed to create the recipe\ncountry: Indicates the cuisine’s country of origin.\ndate_published: The date when the recipe was first uploaded online\nflour, milk, butter, chicken, beef, pork, fish: if the recipes contain certain ingredients\n\n\n\nDesign\nWith the contexts on the top, the interface basically applies a left sidebar and right layout to minimize hand and eye movement. Based on that, controls stay grouped together and outputs remain aligned vertically. Colors come from a clean palette. All three plots share identical heights and a uniform minimalist theme so the eye can move vertically. Margins between the top context area and the main display give breathing space.\n\n\nInsights\nWhen using the app, I found something unexpected by selecting and brushing through the data. For Argentinian recipes, the plot shows that dishes with more fat usually get lower ratings on the website. The average calories for these recipes are about 291 kcal. But when I select Thai food, the pattern looks different as the dishes with more fat actually get higher ratings, and the average calories rise to around 421 kcal. This kind of insight is easier to see with the multiple variables selection. Besides, as the app lets me filter by country and highlight parts of the plot, it becomes easy to notice that the same factor can be linked to ratings in different ways depending on the origin of the country."
+    "text": "Main visualization\n\n\n\nIntroduction Text\n\nResearch Question:To what extent do counties influence changes in grocery store accessibility from 2010 to 2015?\nKey findings Food accessibility varies across countries and disproportionately affects certain communities. Limited access to grocery stores can contribute to food insecurity and broader public health concerns, especially in lower-income or rural areas. Using data from the USDA Food Environment Atlas, this study explores changes in food access across Wisconsin counties between 2010 and 2015. We examine how factors like county population size, urban vs. rural classification, and racial demographics relate to low grocery access. For clarity and consistency in interpreting the data, the following definitions were used: “Low access” refers to individuals living more than 1 mile from a grocery store in urban areas or more than 10 miles in rural areas. Additionally, all demographic variables were calculated as percentages within each group at the county level. For example, the percentage of white residents with low access was calculated by dividing the number of white individuals with low access by the total number of white residents in that county. This analysis focused specifically on counties within Wisconsin, using data from the USDA Food Environment Atlas.\n\n\n\n\nPhoto with my team\n\n\n\nTogether with my teammates Salma Gadelhak, Hanvin Moon and Chloe Siegel, we showed how grocery store access in Wisconsin counties changed between 2010 and 2015. Using R and Tableau, we visualized these disparities and uncovered patterns that often go unnoticed."
   },
   {
     "objectID": "projects/liberal-arts.html",
@@ -124,5 +54,40 @@
     "title": "Evolving Liberal Arts Education",
     "section": "Introduction",
     "text": "Introduction\nThe story explores the evolving liberal arts education. Through interviews with graduate, advisor and student, I try to find answers about its meaning in a changing world. Their perspectives offer insights into the challenges and possibilities of pursuing liberal arts degrees in our world today."
+  },
+  {
+    "objectID": "projects/food-explorer.html",
+    "href": "projects/food-explorer.html",
+    "title": "Cuisine Explorer",
+    "section": "",
+    "text": "Main visualization"
+  },
+  {
+    "objectID": "projects/food-explorer.html#introduction",
+    "href": "projects/food-explorer.html#introduction",
+    "title": "Cuisine Explorer",
+    "section": "Introduction",
+    "text": "Introduction\n\nObjectives\nThe visualization aims to explore how nutritional values differ across countries and ingredient types, and how the number of recipes published online has changed over time. This app targets general audiences like cooks and foodies curious about recipes data. Therefore, with the specific countries and ingredients selected, audiences can explore what is most relevant to them. The app prioritizes intuitive exploration so audiences can play around the functions.\nThe app uses controls for personalized exploration. With the first single ingredient dropdown, users can select the ingredient they are most interested in. The country selector, however, allows multiple choices so that audiences can filter a set of certain countries. Variable selectors for the scatter plot make the same display serve multiple analytical purposes. Thus, users can switch to various relationships without changing plots. Brushing works across the scatter and histogram, so one action reflects on several spaces. The year bar chart updates automatically with the filters, showing whether a pattern belongs to older or newer uploaded recipes.\n\n\nData Processing\nBefore visualization, I cleaned the datasets to remove rows with missing data and ensure valid time. I created new columns to decide whether a recipe included key ingredients such as flour, milk, butter, chicken and beef. These ingredient indicators were used to allow filtering and comparison across different food types. Another important step was grouping the calorie variable into broad ranges (0-500, 500-1000, &gt;1000). The step is to create a classification that distinguishes recipes’ energy density. The publication date was converted into a date format to analyze recipe trends by year. In addition, each row of the processed dataset represents a single recipe, including its nutritional information (calories, fat, carbohydrates and protein), average user rating, country of origin, and total preparation time.\n\n\nKey Variables\n\ncalories, fat, carb, proteins: nutritional content per serving.\navg_ratings: average rating out of 5 stars, which can reflect user satisfaction\ntotal_time: total time needed to create the recipe\ncountry: Indicates the cuisine’s country of origin.\ndate_published: The date when the recipe was first uploaded online\nflour, milk, butter, chicken, beef, pork, fish: if the recipes contain certain ingredients\n\n\n\nDesign\nWith the contexts on the top, the interface basically applies a left sidebar and right layout to minimize hand and eye movement. Based on that, controls stay grouped together and outputs remain aligned vertically. Colors come from a clean palette. All three plots share identical heights and a uniform minimalist theme so the eye can move vertically. Margins between the top context area and the main display give breathing space.\n\n\nInsights\nWhen using the app, I found something unexpected by selecting and brushing through the data. For Argentinian recipes, the plot shows that dishes with more fat usually get lower ratings on the website. The average calories for these recipes are about 291 kcal. But when I select Thai food, the pattern looks different as the dishes with more fat actually get higher ratings, and the average calories rise to around 421 kcal. This kind of insight is easier to see with the multiple variables selection. Besides, as the app lets me filter by country and highlight parts of the plot, it becomes easy to notice that the same factor can be linked to ratings in different ways depending on the origin of the country."
+  },
+  {
+    "objectID": "projects/food-explorer.html#go-to-the-app",
+    "href": "projects/food-explorer.html#go-to-the-app",
+    "title": "Cuisine Explorer",
+    "section": "Go to the App!",
+    "text": "Go to the App!\n\n\n\n\n\n\nNote\n\n\n\nThe full interactive application is hosted on ShinyApps: Launch Cuisine Explorer App"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCampaign Efficacy and Engagement Analysis\n\n\n\nData Visualization\n\nMarketing\n\nTableau\n\n\n\nDuring my Growth Marketing internship at Smartly, I volunteered to take on marketing analytics work to deepen my understanding of data-driven strategy.\n\n\n\nIris Chen\n\n\n\n\n\n\n\n\n\n\n\n\n\nCounty-Level Trends in Grocery Store Access In Wisconsin\n\n\n\nData Visualization\n\nR\n\nTableau\n\n\n\nThe projects shows county-level trends in grocery store access in Wisconsin from 2010 to 2015.\n\n\n\nIris Chen\n\n\n\n\n\n\n\n\n\n\n\n\n\nCuisine Explorer\n\n\n\nData Visualization\n\nR\n\n\n\nThe visualization is part of my course work where I build interactive relationship between variables. The work is build with Shiny package.\n\n\n\nIris Chen\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvolving Liberal Arts Education\n\n\n\nJournalism\n\n\n\nMy individual story explores the evolving liberal arts education. Through interviews with graduate, advisor and student, I try to find answers about its meaning in a…\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
