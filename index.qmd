@@ -28,9 +28,8 @@ include-after-body:
 
 
 ## About Me
-<p class="hero-line">
-   <span id="typing"></span>
-</p>
+<p class="hero-line"><span id="typing">Data Storyteller</span></p>
+
 
 
 I’m a senior student at the University of Wisconsin–Madison studying Journalism and Data Science. I am also a part-time volunteer with the Computational Approaches and Message Effects Research (CAMER) group in the School of Journalism and Mass Communication.

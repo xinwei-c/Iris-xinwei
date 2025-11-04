@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - styles.css
+    - typing.js
+
 
 website:
   title: "Iris Chen"
