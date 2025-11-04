@@ -1,1 +1,52 @@
 /* css styles */
+
+.news-item {
+  border-left: 4px solid #111827;
+  background-color: #f9fafb;
+  padding: 0.8rem 1rem;
+  margin-bottom: 1.2rem;
+  border-radius: 6px;
+}
+
+
+.hero-line {
+  font-size: 1 rem;           /* smaller */
+  color: #F5E0E3;              /* gentle pink tone */
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.hero-line {
+  font-size: 1.6rem;
+  color: #d36fa6;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+
+.typing-text {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  white-space: nowrap;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: baseline;
+  border-right: .08em solid currentColor;
+  letter-spacing: 0.03em;
+  line-height: 1.2;
+  color: #d36fa6;
+  max-width: 0; /* 从0开始 */
+}
+
+.typing-text.run {
+  animation: typing 1.6s steps(var(--n)) both, blink .8s step-end infinite;
+}
+
+
+@keyframes typing {
+  from { max-width: 0; }
+  to { max-width: 100%; }
+}
+
+@keyframes blink {
+  50% { border-color: transparent; }
+}

@@ -1,11 +1,87 @@
 ---
-title: "Iris-xinwei"
+title: "Iris Chen"
+#image:
+about: 
+  template: trestles
+  image-shape: round
+  image: img/me.jpg
+  image-width:  15em
+  links: 
+    - text: Github
+      icon: github
+      href: https://github.com/xinwei-c
+    - text: Instagram
+      icon: instagram
+      href: https://www.instagram.com/xinwei.owo/
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/iris-xinwei-chen-63b246272
+      
+include-after-body:
+  text: |
+    <script src="typing.js"></script>
+
 ---
 
-This is a Quarto website.
+#### Hi, welcome to my site! My name is Iris (Xinwei) Chen. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+
+## About Me
+<p class="hero-line">
+   <span id="typing"></span>
+</p>
+
+
+I’m a senior student at the University of Wisconsin–Madison studying Journalism and Data Science. I am also a part-time volunteer with the Computational Approaches and Message Effects Research (CAMER) group in the School of Journalism and Mass Communication.
+Besides, I study to grow into a marketing analyst and data storyteller who can turn numbers into something people actually understand.
+By bringing together strategic communication and data science, I want to keep exploring how insight and technology can work hand in hand to make ideas real.
+
+
+
+## News
+
+<div class="news-item">
+**July 15, 2025**  
+Worked as New York Asian Film Festival Volunteer. 
+
+
+</div>
+
+<div class="news-item">
+
+**June 2, 2025**  
+Started my summer internship at [Smartly](https://www.smartly.io/), working under the guidance of  
+Alicia Mickelsen, VP of Growth Marketing and Strategy.
+</div>
+
+<details>
+<summary><strong>Show earlier news (before 2025)</strong></summary>
+
+<div class="news-item">
+
+**December 2024**  
+Completed my [individual journalistic work](https://declineliberalarts.wordpress.com/) exploring the evolution of liberal arts education at UW-Madison.
+
+</div>
+
+<div class="news-item">
+
+**December 2024**  
+Finished my consulting project with American Family Insurance in [Ethical and Responsible Business Network](https://win.wisc.edu/organization/erbn)
+
+</div>
+
+<div class="news-item">
+**December 2024**  
+Conducted over 20 phone interviews regarding Wisconsin Family Health Study in [University of Wisconsin Survey Centre](https://uwsc.wisc.edu/).
+</div>
+
+
+<div class="news-item">
+**Semtember 2024**  
+Joined School of Journalism and Mass Communication with Honor. 
+</div>
+
+</details>
+

@@ -1,0 +1,26 @@
+---
+title: "Evolving Liberal Arts Education"
+image: "img/liberal-art.png"
+description: "My individual story explores the evolving liberal arts education. Through interviews with graduate, advisor and student, I try to find answers about its meaning in a changing world."
+categories: ["Journalism"]
+
+# card click target
+href: "https://declineliberalarts.wordpress.com/"
+external: true
+
+# hard redirect if someone opens this page directly
+redirect: "https://declineliberalarts.wordpress.com/"
+---
+
+![My video work](img/liberal-art.png)
+
+
+## See my work
+
+[**Evolving Liberal Arts Education**](https://declineliberalarts.wordpress.com/)
+
+
+## Introduction
+
+The story explores the evolving liberal arts education. Through interviews with graduate, advisor and student, I try to find answers about its meaning in a changing world. Their perspectives offer insights into the challenges and possibilities of pursuing liberal arts degrees in our world today.
+

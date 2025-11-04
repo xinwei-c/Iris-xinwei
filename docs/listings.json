@@ -1,0 +1,38 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/projects/market-campaign.html",
+      "/projects/food-insecurity.html",
+      "/projects/food-explorer.html",
+      "/projects/liberal-arts.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2025-11-3.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/market-campaign.html",
+      "/projects/food-insecurity.html",
+      "/projects/food-explorer.html",
+      "/projects/liberal-arts.html"
+    ]
+  },
+  {
+    "listing": "/posts/2025-11-3.html",
+    "items": []
+  },
+  {
+    "listing": "/projects/food insecurity.html",
+    "items": []
+  },
+  {
+    "listing": "/projects/liberal-arts.html",
+    "items": []
+  }
+]

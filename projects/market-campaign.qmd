@@ -1,0 +1,30 @@
+---
+title: "Campaign Efficacy and Engagement Analysis"
+author: "Iris Chen"
+
+image: "img/abm.png" 
+
+
+description: "During my Growth Marketing internship at Smartly, I volunteered to take on marketing analytics work to deepen my understanding of data-driven strategy."
+
+# 3. Optional, but good for filtering/sorting
+categories: ["Data Visualization", "Marketing", "Tableau"] 
+---
+
+![Key axes have been masked for data security ](img/abm.png)
+
+### Introduction Text
+
+During my internship at Smartly as a Growth Marketing Intern, I volunteered to take on marketing analytics work to deepen my understanding of data-driven strategy. I analyzed internal campaign datasets to assess performance and audience engagement, providing timely reports and insights that supported the team’s optimization efforts. The data was processed in RStudio and visualized in Tableau, transforming campaign metrics into clear findings for strategies. The data is from 6Sense. To protect information security, the key axes have been masked.
+
+### Basic steps in processing data
+
+1. Segment: categorized campaigns based on their names:
+- Audience Type: Hot / Warm / Unknown (if not mentioned)
+- Focus Area: Flashtalking, GetDemo, etc.
+2. Visualize
+- Focused on key performance metrics: Spend and CTR
+- Segmented results into account-based vs. general
+3. Insights
+
+---

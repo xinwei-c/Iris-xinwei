@@ -1,0 +1,12 @@
+---
+title: "Build Website"
+author: "Iris Chen"
+date: "2025-11-03"  # A valid date format
+categories: ["Tech", "Quarto"] 
+description: "A short summary for the listing."
+#image: "path/to/an/image.png"
+---
+
+## Post Content
+
+### What we learned through 

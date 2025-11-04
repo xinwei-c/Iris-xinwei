@@ -1,0 +1,10 @@
+---
+title: "Posts"
+listing:
+  # The 'default' type provides the blog-style layout
+  type: default 
+  contents: posts 
+  categories: true 
+  fields: [date, author, title, description, categories, image]
+  sort: "date desc"
+---

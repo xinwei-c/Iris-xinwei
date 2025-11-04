@@ -1,0 +1,10 @@
+---
+title: "Projects"
+listing:
+  type: grid
+  contents: projects
+  grid-columns: 2
+  fields: [image, title, description, categories, date, author]
+  sort-ui: true
+  filter-ui: true
+---

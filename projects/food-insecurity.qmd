@@ -1,0 +1,26 @@
+---
+title: "County-Level Trends in Grocery Store Access In Wisconsin"
+author: "Iris Chen"
+
+image: "img/food1.png" 
+
+description: "The projects shows county-level trends in grocery store access in Wisconsin from 2010 to 2015."
+
+
+categories: ["Data Visualization", "R", "Tableau"] 
+---
+
+![Main visualization](img/food1.png)
+
+### Introduction Text
+
+- Research Question:To what extent do counties influence changes in grocery store accessibility from 2010 to 2015?
+
+- Key findings
+Food accessibility varies across countries and disproportionately affects certain communities. Limited access to grocery stores can contribute to food insecurity and broader public health concerns, especially in lower-income or rural areas. Using data from the USDA Food Environment Atlas, this study explores changes in food access across Wisconsin counties between 2010 and 2015. We examine how factors like county population size, urban vs. rural classification, and racial demographics relate to low grocery access. For clarity and consistency in interpreting the data, the following definitions were used: “Low access” refers to individuals living more than 1 mile from a grocery store in urban areas or more than 10 miles in rural areas. Additionally, all demographic variables were calculated as percentages within each group at the county level. For example, the percentage of white residents with low access was calculated by dividing the number of white individuals with low access by the total number of white residents in that county. This analysis focused specifically on counties within Wisconsin, using data from the USDA Food Environment Atlas.
+
+![Photo with my team](img/food2.jpeg)
+
+- Together with my teammates Salma Gadelhak, Hanvin Moon and Chloe Siegel, we showed how grocery store access in Wisconsin counties changed between 2010 and 2015. Using R and Tableau, we visualized these disparities and uncovered patterns that often go unnoticed.
+
+---

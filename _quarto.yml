@@ -3,18 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "Iris-xinwei"
+  title: "Iris Chen"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - projects.qmd
+      - posts.qmd
+
+
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    link-external-newwindow: true
+    theme: minty
     css: styles.css
     toc: true
 
