@@ -1,0 +1,14 @@
+---
+title: "Women’s Labor and Media Bias in the Pandemic"
+image: "img/1.webp"
+description: "My work aims to showcase gendered labor inequalities depicted by media that became especially visible during the COVID-19 pandemic"
+categories: ["Journalism"]
+---
+
+![My Poster Design](img/1.webp)
+
+## About
+
+This poster was created for the **International Talent Leadership Competition** when I studied in Communication University of China. The competition invites students to explore global challenges through creative, research driven, and socially engaged projects. It asks participants to demonstrate leadership through original work that reflects critical thinking, international awareness, and the ability to communicate complex social issues to diverse audiences.
+
+My submission, which received an Excellent Prize, examines the gendered labor inequalities depicted by media that became especially visible during the COVID-19 pandemic. Although women formed the majority of frontline medical workers in mainland China, their contributions were underrepresented in mainstream media coverage. The project uses visual storytelling to highlight the discrepancy between women’s essential labor and the limited visibility granted to them in public narratives. The poster therefore functions as both a critique of media framing and a call to acknowledge the structural conditions that obscure women’s work despite their central role in public health and community care.

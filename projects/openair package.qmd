@@ -1,0 +1,59 @@
+---
+title: "Wisconsin Air Quality Dashboard in 2023"
+author: "Iris Chen"
+
+image: "img/polar-graph.png" 
+
+description: "The project aims to making key functionality of the OpenAir package accessible to non-technical audiences through an interactive interface."
+
+
+categories: ["Data Visualization", "R"] 
+---
+
+![Main Site](img/polar-graph.png)
+
+
+### Introduction 
+
+-   The project aims to making key functionality of the OpenAir package accessible to non-technical audiences through an interactive interface. This narrower scope addresses a specific gap by creating air quality visualizations that are easy to interpret, making this information accessible to community members and other stakeholders who might benefit from exploring local pollution patterns.
+-   For this prototyping exercise, we built a Shiny App containing four interactive plots: a pollution map (for this exercise, we used Wisconsin), a polar plot, a seasonality plot, an influence plot, and a pollution rose. Across all graphs, we used three key interactions where users could select the pollutant of interest, the meteorological variable of influence, and a time period. Through this, users can explore relationships between emissions, weather conditions, and temporal trends.
+
+### Go to the App!
+
+::: {.callout-note icon="false"}
+The full interactive application is hosted on ShinyApps: [**Launch Wisconsin Air Quality App**](https://xinwei.shinyapps.io/Stat436_Project/)
+:::
+
+### Data Process
+
+- We got the data from API and remove all the missing values.
+
+### Visualizations Descriptions
+
+![Wisconsin State Map](img/state1.png)
+
+Wisconsin State Map: We chose this visualization to start because maps are familiar to general audiences and serve as an easy entry point into the spatial variation of pollution. Since OpenAir provides pollutant summaries but not ready-made geographic visualizations, this prototype bridges that gap by showing how pollutant concentrations vary across Wisconsin counties. Color and dot size communicate relative pollutant levels, and when paired with the time filter, viewers can begin to understand seasonal and annual patterns.
+Pollution Rose: These visualizations help users understand wind direction and pollution concentration. It is intuitive for audiences familiar with compass directions and provides a compact summary of atmospheric patterns. Users can quickly see which directions contribute the most pollution, and the customization of each particle supports easy comparison of different pollutants. This is a great starting point as users move into the polar plot (which adds the variable of wind speed) as the pollution rose is a bit more digestible for non-experts. 
+
+![Seasonality Plot](img/seasonality.png)
+
+Seasonality Plot: We included this seasonality plot to give audiences an immediate sense of how pollutants evolve across Wisconsin in 2023. Line charts are familiar to general viewers, and the continuous shape helps them recognize rhythmic environmental fluctuations that might not be obvious from maps or directional plots. By anchoring each month along a clean horizontal axis, the visualization makes it easy to compare periods of relative stability, such as late winter and early spring, against moments of sharp deviation. This design choice trains users to interpret air quality not as a static number but as a dynamic phenomenon shaped by seasonal cycles, extreme events, and shifting weather systems. As users move through the dashboard, this temporal context prepares them to connect monthly patterns with the spatial and directional insights they encounter in other visualizations, ultimately deepening their understanding of Wisconsin’s air quality.
+
+![Polar Plot](img/polar.png)
+
+Polar Plot: Polar plots are a signature openair visualization that show how pollutant concentrations vary with wind speed and direction (building on the pollution rose). However, they are also visually complex, so our prototype aims to make interpretation more approachable by having a ‘how to read’ guide. One aspect polar plots highlight is directional dependence, for example, whether high concentrations of pollution tend to originate from the southwest. In addition, the ability to customize the meteorological variable can allow users to explore different weather-pollution conditions. Finally, the time filter reveals seasonal patterns in wind-driven pollution trends. 
+
+![Pollution Rose](img/rose.png)
+
+Pollution Rose: These visualizations help users understand wind direction and pollution concentration. It is intuitive for audiences familiar with compass directions and provides a compact summary of atmospheric patterns. Users can quickly see which directions contribute the most pollution, and the customization of each particle supports easy comparison of different pollutants. This is a great starting point as users move into the polar plot (which adds the variable of wind speed) as the pollution rose is a bit more digestible for non-experts. 
+
+![Influence Plot](img/influence.png)
+
+Influence Plot: Influence plots help identify which meteorological conditions most strongly affect pollutant levels. In openair, this type of analysis is highly useful as it can help viewers explore what meteorological variables are most impactful on air pollution movement. Users can also see associations between pollutant concentrations and variables such as temperature, wind speed, and humidity. The time period feature is especially useful here, allowing viewers an opportunity to identify seasons where certain variables matter more. 
+
+### Group Member
+
+This is a group project and the members are Xinwei (Iris) Chen, Emma Clift, and Jonathan Morris
+
+
+------------------------------------------------------------------------
