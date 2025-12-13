@@ -1,0 +1,16 @@
+---
+title: "Sheboygan Foster Care"
+image: "img/allsheboygan.jpg"
+description: "My course project at JOURN 445, where I work with real world client Sheboygan Foster Care."
+categories: ["Journalism"]
+
+---
+
+![My time with the class](img/allsheboygan.jpg)
+
+## Introduction
+
+## See my work
+
+
+![View Slides (PDF)](slides/Project Work Portfolio.pptx)
