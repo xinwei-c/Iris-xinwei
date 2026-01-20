@@ -1,0 +1,17 @@
+---
+title: "Photos"
+---
+
+<div class="photo-intro">
+These photographs are fragments from places I passed through slowly.  
+I was drawn to quiet moments where nothing was asking to be explained.
+</div>
+
+
+<div class="masonry">
+![](photos/DSC05210.JPG)
+![](photos/DSC05228.jpg)
+![](photos/DSC05231.JPG)
+![](photos/DSC05254.jpg)
+![](photos/DSC05261.jpg)
+</div>

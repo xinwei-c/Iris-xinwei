@@ -1,12 +1,12 @@
 ---
-title: "Build Website"
+title: "Marketing in a coffee"
 author: "Iris Chen"
-date: "2025-11-03"  # A valid date format
-categories: ["Tech", "Quarto"] 
+date: "2026-1-20"  # A valid date format
+categories: ["Tech", "Marketing"] 
 description: "A short summary for the listing."
 #image: "path/to/an/image.png"
 ---
 
 ## Post Content
 
-### What we learned through 
+### What we learned through

@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/2025-11-3.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/market-campaign.html",
@@ -15,6 +9,12 @@
       "/projects/fostercare.html",
       "/projects/openair package.html",
       "/projects/female-post-pandemic.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2025-11-3.html"
     ]
   }
 ]

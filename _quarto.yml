@@ -8,21 +8,24 @@ project:
 
 website:
   title: "Iris Chen"
+
+  
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - projects.qmd
-      - posts.qmd
-
-
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        href: projects.qmd #projects
+      - text: "Posts"
+        href: posts.qmd #news
+      - text: "Photos"
+        href: photos.qmd
+    
 
 format:
   html:
-    link-external-newwindow: true
-    theme: minty
+    theme: flatly
     css: styles.css
-    toc: true
 
 editor: visual
 
