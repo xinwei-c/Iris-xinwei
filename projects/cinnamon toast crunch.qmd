@@ -23,7 +23,7 @@ As the Design Director, I led the majority of the design work, with a primary fo
 
 ## Our final slides
 
-<embed src="pdf/cinn_deck.pdf" type="application/pdf" width="100%" height="600px"/>
+<embed src="slides/cinn_deck.pdf" type="application/pdf" width="100%" height="600px"/>
 
 ## Checkout our Campaign book
 
