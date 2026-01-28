@@ -1,0 +1,248 @@
+/* =========================
+   GOOGLE FONTS
+   ========================= */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
+
+/* =========================
+   GLOBAL RESET
+   ========================= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #FBE3EA;
+  color: #2B2B2B;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* =========================
+   HERO SECTION
+   ========================= */
+.hero-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #FBE3EA; /* flat blush */
+  text-align: center;
+  padding: 3rem 2rem;
+  position: relative;
+}
+
+/* Watermark */
+.hero-section::before {
+  content: "IRIS CHEN";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 18vw;
+  color: #000000;
+  opacity: 0.035;
+  white-space: nowrap;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  max-width: 1400px;
+}
+
+/* =========================
+   HERO TYPOGRAPHY
+   ========================= */
+.hero-title {
+  font-family: 'Great Vibes', cursive;
+  font-size: clamp(3.5rem, 12vw, 10rem);
+  color: #D95C85;
+  display: block;
+  
+}
+
+.hero-subtitle {
+  font-family: 'Great Vibes', cursive;
+  font-size: clamp(3.5rem, 8vw, 7.5rem);
+  font-weight: 400;
+  line-height: 1;
+  color: #D95C85; /* dusty rose */
+  margin-top: 0;
+  margin-bottom: 3.5rem;
+  letter-spacing: -0.02em;
+}
+
+/* =========================
+   HERO DESCRIPTION
+   ========================= */
+.hero-description {
+  font-family: 'Inter', sans-serif;
+  font-size: clamp(1.05rem, 1.8vw, 1.3rem);
+  color: #555555;
+  max-width: 900px;
+  margin: 0 auto 3rem;
+  line-height: 1.75;
+}
+
+/* =========================
+   CTA
+   ========================= */
+.explore-btn {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #D95C85;
+  font-weight: 700;
+  padding: 6px 18px;
+  border: none;
+  background: transparent;
+  margin-bottom: 1.8rem;
+}
+
+/* =========================
+   SCROLL INDICATOR
+   ========================= */
+.scroll-indicator {
+  display: flex;
+  justify-content: center;
+}
+
+.scroll-indicator button {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: white;
+  border: none;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+  cursor: pointer;
+}
+
+.arrow-icon {
+  font-size: 1.8rem;
+  color: #D95C85;
+}
+
+/* =========================
+   ABOUT SECTION
+   ========================= */
+.about-section {
+  min-height: 100vh;
+  background: #FBE3EA;
+  padding: 5rem 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-container {
+  max-width: 1200px;
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  gap: 4rem;
+  align-items: center;
+  background: rgba(255,255,255,0.75);
+  border-radius: 32px;
+  padding: 60px;
+  box-shadow: 0 30px 60px rgba(0,0,0,0.08);
+}
+
+/* Profile image */
+.profile-image {
+  width: 100%;
+  max-width: 380px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 12px solid white;
+}
+
+/* About text */
+.about-header {
+  font-size: 1rem;
+  color: #888;
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.about-name {
+  font-size: 1.8rem;
+  color: #1E1E1E;
+  font-weight: 700;
+  margin-bottom: 1.8rem;
+}
+
+.about-title {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(3rem, 6vw, 4.8rem);
+  font-weight: 900;
+  color: #1E1E1E;
+  line-height: 1.1;
+  margin-bottom: 1.2rem;
+}
+
+.data-storyteller {
+  font-family: 'Great Vibes', cursive;
+  font-size: clamp(3.5rem, 6vw, 5.5rem);
+  color: #D95C85;
+  display: block;
+}
+
+.about-description {
+  font-size: 1.1rem;
+  color: #555;
+  line-height: 1.75;
+}
+
+.highlight {
+  font-weight: 700;
+  color: #1E1E1E;
+  border-bottom: 3px solid #D95C85;
+  text-decoration: none;
+}
+
+/* =========================
+   RESPONSIVE
+   ========================= */
+@media (max-width: 768px) {
+  .about-container {
+    grid-template-columns: 1fr;
+    text-align: center;
+    padding: 40px 30px;
+  }
+
+  .profile-image {
+    margin: 0 auto;
+    max-width: 280px;
+  }
+}
+
+/* =========================
+   NAVIGATION
+   ========================= */
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 1.5rem 3rem;
+  background: rgba(251,227,234,0.95);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  z-index: 1000;
+}
+
+.nav-brand {
+  font-family: 'Great Vibes', cursive;
+  font-size: 2rem;
+  color: #D95C85;
+}

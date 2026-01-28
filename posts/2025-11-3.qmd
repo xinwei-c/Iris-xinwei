@@ -1,12 +1,57 @@
 ---
-title: "Marketing in a coffee"
+title: "Coffee as a tactic of marketing"
 author: "Iris Chen"
 date: "2026-1-20"  # A valid date format
 categories: ["Tech", "Marketing"] 
-description: "A short summary for the listing."
+description: "How coffee marketing attracts retail brands and even penetrates tech"
 #image: "path/to/an/image.png"
 ---
 
-## Post Content
 
-### What we learned through
+## Entering a fresh space like museum
+When I walked into UNIQLO in New York two years ago, it felt no different from the other buildings around it, except that it offered more layers of choice.
+
+However, this year, when I stepped inside again just to avoid the rain, I realized something different. It opened a coffee shop. Seeing the variety of product displays, I don’t know why, but it immediately reminded me of the Museum of Modern Art a few streets away.
+
+Yes, it made me think of a museum: displays, circulation, and a café sitting quietly inside.
+
+## From an exception to a pattern
+As I came across more similar news, I started to feel that this was not a unique case, but a common decision. The convergence of fashion retail and coffee shops seems to be accelerating globally. Retailers like Coach, Louis Vuitton, and Dior have all launched coffee shops in flagship stores as part of a broader strategy to integrate hospitality into brand environments.
+
+Similarly, I noticed this again in Chicago. When I passed by the Ralph Lauren store, the café area was full, and the nearby retail spaces were relatively quiet.
+
+I started wondering why it had to be a coffee shop, and not something else.**When we sit down in these cafés, are we really there for the coffee?**
+
+## Role of coffee
+For me personally, I don’t buy coffee because a brand is loud enough.
+
+Food and drinks have their own kind of professional boundary. I am willing to try coffee from big brands, and I am equally willing to walk into a local specialty shop.
+
+In this case, my decision is more about how professional the coffee shop feels. Since retail brands are mainly about clothes or other specialized products, I don’t believe they aim to produce expert coffee, at least not in the way specialty coffee shops do.
+
+At the same time, I think they understand their audience very clearly. They are not seeking coffee experts or trying to win coffee competitions.
+
+Instead, they are extending their physical space into something with social meaning. Coffee doesn’t ask for much. We don’t need to understand a brand to order a cup. Sitting down with coffee is one of the easiest ways to enter a space without pressure.
+
+## Coffee moves into tech
+What I find even more interesting is that when tech brands try to build offline connections, they often turn to coffee shops pop-ups as well. Several tech and AI companies experimented with pop-ups where visitors could drink coffee while interacting with products or demos.
+
+For example, AI search company Perplexity AI opened a coffee shop pop-up in Seoul, using coffee as a way to attract visitors and make its abstract product feel more human and approachable.
+
+Another interesting case outside fashion is from the AI company Anthropic.
+
+In New York’s West Village, Anthropic, the maker of the AI chatbot Claude, made a small newsstand into a pop-up space where New Yorkers were invited to slow down, sit with coffee, and think instead of interacting with screens. The installation, part of Anthropic’s “Zero Slop Zone” and “Keep Thinking” campaign, featured free coffee, books, and pens branded with the word “thinking,” encouraging visitors to engage in reflection and analog activities.
+
+## Coffee as a marketing invitation
+When brands open coffee shops, they are not really selling coffee. They are creating a moment where consumption feels optional. Coffee becomes a reason to sit down. The real value is the pause, and the way a brand slowly becomes part of someone’s routine.
+
+When we ask ourselves whether we are truly in these cafés for the coffee, the answer is probably not.
+
+Now why is coffee so often used as a market invitation? The reasons are simple:
+
+- it invites presence
+- it extends the time people spend in a brand’s physical world
+- it lowers the psychological threshold to enter a store
+- it creates a context for lifestyle association rather than direct consumption
+
+I may not trust the expertise behind the coffee these brands serve, but I may enter the space for what coffee makes easy: a pause, a seat, and the chance to meet someone new.

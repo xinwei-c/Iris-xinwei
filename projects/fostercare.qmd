@@ -1,18 +1,57 @@
 ---
 title: "Sheboygan Foster Care"
 image: "img/allsheboygan.jpg"
-description: "My course project at JOURN 445, where I work with real world client Sheboygan Foster Care."
+description: "My course project at JOURN 445, where I work with client Sheboygan Foster Care."
 categories: ["Journalism"]
-
 ---
 
 ![My time with the class](img/allsheboygan.jpg)
 
 ## Introduction
 
-The work has been featured by SJMC website. Check out the report: https://sjmc.wisc.edu/news/in-sheboygan-students-learn-the-power-of-storytelling/
+The work has been featured by SJMC website. 
+- Check out the report: https://sjmc.wisc.edu/news/in-sheboygan-students-learn-the-power-of-storytelling/
 
-## See my work
+## See my creative productions
 
-- Our presentation: https://lnkd.in/gYkk6C4j
-- Our casebook: https://lnkd.in/gXaUctK9
+### Posters
+::: {.columns}
+::: {.column width="50%"}
+![Sheboygan Poster A](img/she_2.png)
+:::
+
+::: {.column width="50%"}
+![Sheboygan Poster B](img/she_1.png)
+:::
+:::
+
+---
+
+### Business cards
+
+#### Dark Series
+::: {.columns}
+::: {.column width="50%"}
+![Dark Front](img/dark_card2.png)
+:::
+
+::: {.column width="50%"}
+![Dark Back](img/dark_card1.png)
+:::
+:::
+
+#### Light Series
+::: {.columns}
+::: {.column width="50%"}
+![Light Front](img/light_card1.png)
+:::
+
+::: {.column width="50%"}
+![Light Back](img/light_card2.png)
+:::
+:::
+
+
+### Our final slides
+<embed src="slides/sheboygan_deck.pdf" type="application/pdf" width="100%" height="600px"/>
+

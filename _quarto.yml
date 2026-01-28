@@ -4,6 +4,7 @@ project:
   resources:
     - styles.css
     - typing.js
+    - \usepackage{pdfpages}
 
 
 website:

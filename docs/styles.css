@@ -594,3 +594,19 @@ main {
   color: #888;
   font-size: 0.8rem;
 }
+
+section.level2 > h2 {
+font-family: "Playfair Display", serif;
+color: #FF9FBF; /*  */
+margin-top: 2.5rem;
+}
+
+
+/* H3 (###) - candy blue */
+section.level3 > h3 {
+font-family: "Playfair Display", serif;
+color: #6FA8DC; /* */
+font-weight: 500;
+letter-spacing: 0.02em;
+margin-top: 1.8rem;
+}

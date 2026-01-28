@@ -1,0 +1,65 @@
+---
+title: ""
+format:
+  html:
+    css: custom.css
+    page-layout: custom
+    toc: false
+---
+
+::: {.hero-section}
+::: {.hero-content}
+<h1 class="hero-title">Storytelling</h1>
+<h2 class="hero-subtitle">with Data.</h2>
+
+<p class="hero-description">
+Journalism major & Data Science minor at UW-Madison.<br>
+Bridging high-level R analysis with journalistic narrative.
+</p>
+
+
+::: {.scroll-indicator}
+<button onclick="document.querySelector('.about-section').scrollIntoView({behavior: 'smooth'})">
+  <span class="arrow-icon">↓</span>
+</button>
+:::
+:::
+:::
+
+::: {.about-section}
+::: {.about-container}
+<div>
+  <img src="img/me.jpg" alt="Profile Photo" class="profile-image">
+</div>
+
+<div class="about-content">
+ 
+  
+  <h3 class="about-title">
+    About Me<br>
+    [Data Storyteller]{#typing}
+  </h3>
+   <p class="about-header">Welcome to my space. I'm Iris (Xinwei) Chen</p>
+  
+  <p class="about-description">
+    I am currently a senior at the <span class="highlight">University of Wisconsin–Madison</span>. 
+    My academic focus lies at the intersection of <span class="highlight">Journalism and Data Science</span>, 
+    where I combine analytical rigor with compelling narratives to uncover insights that matter.
+  </p>
+</div>
+:::
+:::
+
+<script>
+// Navbar scroll effect
+window.addEventListener('scroll', function() {
+  const navbar = document.querySelector('.navbar');
+  if (navbar) {
+    if (window.scrollY > 50) {
+      navbar.classList.add('scrolled');
+    } else {
+      navbar.classList.remove('scrolled');
+    }
+  }
+});
+</script>
